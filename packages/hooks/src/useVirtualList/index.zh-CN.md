@@ -23,6 +23,10 @@ legacy: /zh-CN/ui/use-virtual-list
 
 <code src="./demo/demo2.tsx" />
 
+### 与 antd 的 Table 配合
+
+<code src="./demo/demo3.tsx" />
+
 ## API
 
 ```typescript
